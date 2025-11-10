@@ -1,0 +1,2 @@
+Sim_ID,Approach,Profile,Scenario,Asymmetry,Diagnostic_Effectiveness,Conversational_Coherence,Extraction_Completeness,Conversational_Efficiency,Knowledge_Origin,Protocol_Adherence,Conversational_Adaptability,Task_Success_Index,Diagnostic_Initiative_Index,Lexical_Adaptation_Index
+Sim_001_Scenario_A3_Total_Mismatch,B,Reluctant_Expert,Scenario_A3_Total_Mismatch,Mismatch,False,True,1,0,None,1,1,1,1,1
