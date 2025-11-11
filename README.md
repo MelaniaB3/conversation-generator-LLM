@@ -5,7 +5,6 @@ A Python application that enables conversations between LLM agents using a Gener
 
 ## Features
 
-- Support for any LLM model available through Ollama
 - Configurable parameters for each LLM agent, such as:
   - Model
   - Temperature
